@@ -1,7 +1,8 @@
-
-# PostgreSQL Setup with TPC-H Data and Performance Monitoring
-
+# CS505-001: Intermediate Tops in Database Systems (Spring 2024)
+## Project: Performance benchmarking | PostgreSQL
 This README outlines the steps to install PostgreSQL, generate and load TPC-H benchmark data into PostgreSQL, and monitor system performance during SQL query execution. This setup uses an Ubuntu operating system on a Parallels virtual machine running on an M3 MacBook configured with an 8-core CPU and 8 GB of RAM.
+
+# Installation instructions
 
 ## Step 1: Install PostgreSQL
 
