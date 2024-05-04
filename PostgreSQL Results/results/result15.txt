@@ -1,0 +1,7 @@
+CREATE VIEW
+ s_suppkey |          s_name           |          s_address           |     s_phone     | total_revenue 
+-----------+---------------------------+------------------------------+-----------------+---------------
+      9492 | Supplier#000009492        | 6kPCGz66rAPqwvJuBuVjRQ6VxTRy | 27-417-928-8655 |  1906546.1047
+(1 row)
+
+DROP VIEW

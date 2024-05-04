@@ -1,0 +1,6 @@
+ l_shipmode | high_line_count | low_line_count 
+------------+-----------------+----------------
+ MAIL       |            6244 |           9329
+ TRUCK      |            6156 |           9206
+(2 rows)
+

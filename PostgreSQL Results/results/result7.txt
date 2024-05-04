@@ -1,0 +1,12 @@
+        supp_nation        |        cust_nation        | l_year |    revenue    
+---------------------------+---------------------------+--------+---------------
+ JORDAN                    | SAUDI ARABIA              |   1994 | 45203482.1487
+ JORDAN                    | SAUDI ARABIA              |   1995 | 48611844.5681
+ JORDAN                    | SAUDI ARABIA              |   1996 | 49215566.2876
+ JORDAN                    | SAUDI ARABIA              |   1997 | 46783639.9732
+ SAUDI ARABIA              | JORDAN                    |   1994 | 53164525.6346
+ SAUDI ARABIA              | JORDAN                    |   1995 | 56186512.4241
+ SAUDI ARABIA              | JORDAN                    |   1996 | 58425743.1024
+ SAUDI ARABIA              | JORDAN                    |   1997 | 52837664.8199
+(8 rows)
+

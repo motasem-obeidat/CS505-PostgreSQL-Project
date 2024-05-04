@@ -1,0 +1,24 @@
+ c_custkey |       c_name       |   revenue   | c_acctbal |          n_name           |                c_address                 |     c_phone     |                                                 c_comment                                                  
+-----------+--------------------+-------------+-----------+---------------------------+------------------------------------------+-----------------+------------------------------------------------------------------------------------------------------------
+     91369 | Customer#000091369 | 699402.8216 |   -840.51 | BRAZIL                    | M9KT6HIGBtgSExpQWFTkz,1jJ                | 12-489-398-3390 | long the furiously regular instruction
+    142015 | Customer#000142015 | 694673.0735 |   3841.67 | UNITED KINGDOM            | fr1cn7EjamsnfHHafh                       | 33-699-169-5328 | the bold deposits. slyly regular accounts ou
+      6575 | Customer#000006575 | 660788.0787 |   2769.78 | RUSSIA                    | GARTfwst7rRbB5                           | 32-486-660-6159 | uriously ironic accounts haggle blithely. ironic pinto beans use carefully furiously final multipliers. fl
+     37999 | Customer#000037999 | 644418.3210 |    544.99 | ARGENTINA                 | fC4buLeqDIhRk0fR5Qyu                     | 11-978-730-9214 | regular accounts haggle. fluffily 
+     82147 | Customer#000082147 | 624826.5082 |   4168.87 | ROMANIA                   | 9SuHStbys2pJGjjzby,laZ4EvqJrosN Ro       | 29-672-182-5375 | l instructions. special courts haggle. instructions sleep regular p
+     85501 | Customer#000085501 | 592491.2365 |   9490.15 | JAPAN                     | 0BL6TPUa3S2Mh xv2                        | 22-703-311-6918 | riously unusual packages. slyly even packages play. foxes after the regular account
+      2632 | Customer#000002632 | 590852.2239 |   5618.72 | ALGERIA                   | Q945vMUK5GF4DBN7muAYk304X7MAEZwy3Yrz     | 10-807-168-3490 |  carefully final deposits about the carefully even instructions cajole quickly
+     64993 | Customer#000064993 | 587096.5737 |   6776.01 | JORDAN                    | uZrcGCdM6falEAVHB                        | 23-371-176-5244 | s boost. slyly silent packages should have to
+     93637 | Customer#000093637 | 583721.6009 |   4259.07 | IRAQ                      | LFXh1AyXigH0rovBset679QX uiDCy189        | 21-248-119-3440 | s cajole carefully. slyly regular instruc
+     71629 | Customer#000071629 | 581566.9293 |   6771.50 | FRANCE                    | 5xPsI02qzGLw09vRpnARjt1AeU,LxsF          | 16-952-199-8967 | pendencies detect above the silent requests. slyly enticing deposits bo
+     33367 | Customer#000033367 | 579021.3694 |   -509.23 | CHINA                     | SFKkmJTsNxLRK,7n4hLQIrdimzIy58kczuCUAQG  | 28-516-990-7930 | ily close requests along the final, 
+     69379 | Customer#000069379 | 571518.8011 |   -418.75 | KENYA                     | iW0FsaDcpt7j434ZkNt1vAubQIp5dpyAt5       | 24-727-159-1487 | press requests. furiously final accounts a
+     96202 | Customer#000096202 | 571017.3398 |   4703.04 | CANADA                    | 4Vcxcx3w4zMjVYNQaqrweweQY6TJO AP9rdvQaLl | 13-194-779-9597 | en packages use. fluffily regular dependencies boost. never pending requ
+     75625 | Customer#000075625 | 569650.0507 |   8393.34 | KENYA                     | Kh7BhsJ01LiqyApSqwKg 0HF                 | 24-338-975-7560 |  use fluffily. quickly even epitaphs unwind. bold asymptotes 
+     74950 | Customer#000074950 | 562690.5085 |   5787.01 | ETHIOPIA                  | DakKNbOMoCerPYrkHki7y0YSsFolREag         | 15-179-355-9222 | furiously unusual packages use blithely. enticing deposits are furiously. 
+     16825 | Customer#000016825 | 561913.0410 |   -699.32 | PERU                      | qR7Bxb tnyC43l,6p                        | 27-167-687-2553 | quickly. slyly final asymptotes use quickly unusual, regular packages. carefully r
+     43132 | Customer#000043132 | 553623.0063 |   1614.32 | INDONESIA                 | ggn3HyIEfCD5Mi,X9Xop3pit lFJ879XGl5      | 19-705-556-5089 |  above the waters. special warhorses nag carefully bold packages. final deposits haggle slowly accou
+     74098 | Customer#000074098 | 544865.8426 |   8356.89 | CANADA                    | 7GUr8Z5 6nT8q                            | 13-878-655-2844 | uriously. fluffily thin pinto beans cajole fluffily. blithely express deposits according to 
+     50845 | Customer#000050845 | 543556.4526 |   7711.17 | ETHIOPIA                  | BDC5l8WjGRtr9YC3D5                       | 15-195-885-9997 | dolites boost furiously ironic foxes. quickly special instructions sleep quickly unus
+     71608 | Customer#000071608 | 541344.3462 |   3862.18 | RUSSIA                    | OYQJ4vyQtEGcNmqGvqolMYMlZubjP9Q0Ao5KyTv  | 32-414-900-4333 | idly pending asymptotes. asymptotes sleep quickly. furio
+(20 rows)
+

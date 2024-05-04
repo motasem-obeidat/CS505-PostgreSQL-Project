@@ -1,0 +1,23 @@
+Query 1 execution time: .927361344 seconds
+Query 2 execution time: 28.646525736 seconds
+Query 3 execution time: .235437361 seconds
+Query 4 execution time: .341559824 seconds
+Query 5 execution time: .195949958 seconds
+Query 6 execution time: .160769897 seconds
+Query 7 execution time: .260553161 seconds
+Query 8 execution time: .245961983 seconds
+Query 9 execution time: .558261592 seconds
+Query 10 execution time: .270847136 seconds
+Query 11 execution time: .060445166 seconds
+Query 12 execution time: .255776078 seconds
+Query 13 execution time: .260580220 seconds
+Query 14 execution time: .159506452 seconds
+Query 15 execution time: .338297585 seconds
+Query 16 execution time: .149056221 seconds
+Query 17 execution time: 968.909188375 seconds
+Query 18 execution time: 5.625982096 seconds
+Query 19 execution time: .237812361 seconds
+Query 21 execution time: 812.568576703 seconds
+Query 22 execution time: .107250975 seconds
+Total execution time: 1820.515700224 seconds
+Throughput: .01 queries per second
